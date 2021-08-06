@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search Autocomplete", "Search Autocomplete\Search Autocomplete.csproj", "{5E500BC3-8200-45A7-8644-E9F812A6DF9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E500BC3-8200-45A7-8644-E9F812A6DF9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E500BC3-8200-45A7-8644-E9F812A6DF9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E500BC3-8200-45A7-8644-E9F812A6DF9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E500BC3-8200-45A7-8644-E9F812A6DF9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56994ABE-BF35-47B3-A05D-485B13A237A0}
+	EndGlobalSection
+EndGlobal
